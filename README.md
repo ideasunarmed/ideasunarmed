@@ -1,0 +1,5 @@
+- 👋 I’m ideasunarmed
+- 👀 I’m interested in web development 
+- 🌱 I’m despite my passion in web development I'm currently learning C++
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 How to reach me codineguzzler@proton.me *or* toxicidea on discord
